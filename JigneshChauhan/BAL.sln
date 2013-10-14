@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{D59EF623-32CC-4961-901E-420B8D94920F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "..\UnitTestProject\UnitTestProject.csproj", "{F261051E-C72B-4621-9F97-E607EC51022E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59EF623-32CC-4961-901E-420B8D94920F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59EF623-32CC-4961-901E-420B8D94920F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59EF623-32CC-4961-901E-420B8D94920F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59EF623-32CC-4961-901E-420B8D94920F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F261051E-C72B-4621-9F97-E607EC51022E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F261051E-C72B-4621-9F97-E607EC51022E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F261051E-C72B-4621-9F97-E607EC51022E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F261051E-C72B-4621-9F97-E607EC51022E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
